@@ -1,0 +1,22 @@
+{
+  "name": "videoplayer",
+  "authors": [
+    "Alexander Zizzo <elzi@nerdi.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "progressbar.js": "~0.9.0",
+    "video.js": "~5.6.0"
+  }
+}
